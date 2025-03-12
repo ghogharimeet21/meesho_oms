@@ -1,0 +1,5 @@
+mysql-connector-python==8.0.33
+pandas==2.2.3
+Flask==3.0.3
+flask_cors==5.0.0
+flask_sqlalchemy
